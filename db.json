@@ -4,7 +4,6 @@
             "restaurantIdx": 4794,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/2fb83be2783060aae23052519b477a42.jpg",
             "classification": "양식",
-            "classification2": "",
             "restaurantName": "와우",
             "rating": 5,
             "reviewCount": 4,
@@ -14,16 +13,11 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": true,
-            "waitingCount": 0,
-            "regDate": "2021-05-11T15:21:47.478Z",
-            "distance": "-0.00km",
-            "latitude": "37.8392879",
-            "longitude": "127.7616929"
+            "waitingCount": 0
         }, {
             "restaurantIdx": 4797,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/44cddc5b6ab8289b680562ccb8d8cf63.jpg",
             "classification": "양식",
-            "classification2": "",
             "restaurantName": "303화덕 송정점",
             "rating": 4.7,
             "reviewCount": 28,
@@ -33,16 +27,11 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": true,
-            "waitingCount": 0,
-            "regDate": "2021-05-12T04:54:32.472Z",
-            "distance": "-0.00km",
-            "latitude": "35.1733383",
-            "longitude": "129.1968358"
+            "waitingCount": 0
         }, {
             "restaurantIdx": 4799,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/6a8561615f892fb1c3f91c699f7b0635.jpg",
             "classification": "한식",
-            "classification2": "",
             "restaurantName": "나사리식당",
             "rating": 4.4,
             "reviewCount": 28,
@@ -52,16 +41,11 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": true,
-            "waitingCount": 0,
-            "regDate": "2021-05-12T05:28:19.495Z",
-            "distance": "-0.00km",
-            "latitude": "35.3564676",
-            "longitude": "129.3356702"
+            "waitingCount": 0
         }, {
             "restaurantIdx": 1465,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/7976065ff4095a68a92b9c59b661ec3e.jpg",
             "classification": "한식",
-            "classification2": "",
             "restaurantName": "한우마당 마포직영점",
             "rating": 5,
             "reviewCount": 5,
@@ -71,16 +55,11 @@
             "useWaiting": false,
             "useBooking": true,
             "isNew": false,
-            "waitingCount": 0,
-            "regDate": "2018-08-21T05:22:35.867Z",
-            "distance": "-0.00km",
-            "latitude": "37.5470133",
-            "longitude": "126.9545629"
+            "waitingCount": 0
         }, {
             "restaurantIdx": 1598,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/03336268692907966550df91a3d85af5.jpg",
             "classification": "한식",
-            "classification2": "육류",
             "restaurantName": "천사곱창 서현역점",
             "rating": 4.8,
             "reviewCount": 561,
@@ -90,16 +69,11 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": false,
-            "waitingCount": 0,
-            "regDate": "2018-10-22T06:56:53.796Z",
-            "distance": "-0.00km",
-            "latitude": "37.3862457",
-            "longitude": "127.1245652"
+            "waitingCount": 0
         }, {
             "restaurantIdx": 1581,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/5d75ae18594674499c1eb49d28bf1e21.jpg",
             "classification": "퓨전",
-            "classification2": "한식",
             "restaurantName": "감칠",
             "rating": 4.6,
             "reviewCount": 440,
@@ -109,16 +83,11 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": false,
-            "waitingCount": 0,
-            "regDate": "2018-10-16T01:31:59.553Z",
-            "distance": "-0.00km",
-            "latitude": "37.5622774",
-            "longitude": "126.9262932"
+            "waitingCount": 0
         }, {
             "restaurantIdx": 567,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/95ca1a38600e49911320a59cce62b86c.jpg",
             "classification": "한식",
-            "classification2": "",
             "restaurantName": "압구정곱창",
             "rating": 4.7,
             "reviewCount": 250,
@@ -128,11 +97,7 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": false,
-            "waitingCount": 0,
-            "regDate": "2018-05-09T04:42:12.618Z",
-            "distance": "-0.00km",
-            "latitude": "37.5270087",
-            "longitude": "127.0356531"
+            "waitingCount": 0
         }]
     },
     "recent": {
@@ -140,7 +105,6 @@
             "restaurantIdx": 1581,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/5d75ae18594674499c1eb49d28bf1e21.jpg",
             "classification": "퓨전",
-            "classification2": "한식",
             "restaurantName": "감칠",
             "rating": 4.6,
             "reviewCount": 440,
@@ -150,16 +114,11 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": false,
-            "waitingCount": 0,
-            "regDate": "2018-10-16T01:31:59.553Z",
-            "distance": "-0.00km",
-            "latitude": "37.5622774",
-            "longitude": "126.9262932"
+            "waitingCount": 0
         }, {
             "restaurantIdx": 2473,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/e1991fc6e33b690246332fc723e0c74c.jpg",
             "classification": "육류",
-            "classification2": "",
             "restaurantName": "김형제 고기의철학 남악점",
             "rating": 5,
             "reviewCount": 1,
@@ -169,16 +128,11 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": false,
-            "waitingCount": 0,
-            "regDate": "2019-07-04T01:18:05.492Z",
-            "distance": "-0.00km",
-            "latitude": "34.8111812",
-            "longitude": "126.4617412"
+            "waitingCount": 0
         }, {
             "restaurantIdx": 2438,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/5307b08f33c41818b1c3b5c058eb64d2.jpg",
             "classification": "육류",
-            "classification2": "",
             "restaurantName": "김형제 고기의철학 천안점",
             "rating": 5,
             "reviewCount": 1,
@@ -188,16 +142,12 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": false,
-            "waitingCount": 0,
-            "regDate": "2019-06-20T01:07:23.757Z",
-            "distance": "-0.00km",
-            "latitude": "36.8153477",
-            "longitude": "127.1087183"
+            "waitingCount": 0
+
         }, {
             "restaurantIdx": 2398,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/a1a9f4b6dd912bf66b4627c747bc8315.jpg",
             "classification": "한식",
-            "classification2": "",
             "restaurantName": "풍원장 고기정찬 달맞이점",
             "rating": 5,
             "reviewCount": 1,
@@ -207,16 +157,12 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": false,
-            "waitingCount": 0,
-            "regDate": "2019-06-03T00:29:53.049Z",
-            "distance": "-0.00km",
-            "latitude": "35.1596180",
-            "longitude": "129.1825463"
+            "waitingCount": 0
+
         }, {
             "restaurantIdx": 4795,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/cf7917ae25dfd082d808438c522bcf3f.jpg",
             "classification": "한식",
-            "classification2": "",
             "restaurantName": "등촌샤브칼국수 에코시티점",
             "rating": 4.4,
             "reviewCount": 11,
@@ -226,16 +172,12 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": true,
-            "waitingCount": 0,
-            "regDate": "2021-05-12T00:51:38.957Z",
-            "distance": "-0.00km",
-            "latitude": "35.8816473",
-            "longitude": "127.1286062"
+            "waitingCount": 0
+
         }, {
             "restaurantIdx": 4794,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/2fb83be2783060aae23052519b477a42.jpg",
             "classification": "양식",
-            "classification2": "",
             "restaurantName": "와우",
             "rating": 5,
             "reviewCount": 4,
@@ -245,16 +187,12 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": true,
-            "waitingCount": 0,
-            "regDate": "2021-05-11T15:21:47.478Z",
-            "distance": "-0.00km",
-            "latitude": "37.8392879",
-            "longitude": "127.7616929"
+            "waitingCount": 0
+
         }, {
             "restaurantIdx": 4797,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/44cddc5b6ab8289b680562ccb8d8cf63.jpg",
             "classification": "양식",
-            "classification2": "",
             "restaurantName": "303화덕 송정점",
             "rating": 4.7,
             "reviewCount": 28,
@@ -264,16 +202,12 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": true,
-            "waitingCount": 0,
-            "regDate": "2021-05-12T04:54:32.472Z",
-            "distance": "-0.00km",
-            "latitude": "35.1733383",
-            "longitude": "129.1968358"
+            "waitingCount": 0
+
         }, {
             "restaurantIdx": 4799,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/6a8561615f892fb1c3f91c699f7b0635.jpg",
             "classification": "한식",
-            "classification2": "",
             "restaurantName": "나사리식당",
             "rating": 4.4,
             "reviewCount": 28,
@@ -283,16 +217,12 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": true,
-            "waitingCount": 0,
-            "regDate": "2021-05-12T05:28:19.495Z",
-            "distance": "-0.00km",
-            "latitude": "35.3564676",
-            "longitude": "129.3356702"
+            "waitingCount": 0
+
         }, {
             "restaurantIdx": 1465,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/7976065ff4095a68a92b9c59b661ec3e.jpg",
             "classification": "한식",
-            "classification2": "",
             "restaurantName": "한우마당 마포직영점",
             "rating": 5,
             "reviewCount": 5,
@@ -302,16 +232,11 @@
             "useWaiting": false,
             "useBooking": true,
             "isNew": false,
-            "waitingCount": 0,
-            "regDate": "2018-08-21T05:22:35.867Z",
-            "distance": "-0.00km",
-            "latitude": "37.5470133",
-            "longitude": "126.9545629"
+            "waitingCount": 0
         }, {
             "restaurantIdx": 4803,
             "thumbnail": "https://image.tabling.co.kr/prod/restaurant/d94d8156b4ffba0470ceb09601d3fdbf.jpg",
             "classification": "베트남음식",
-            "classification2": "",
             "restaurantName": "라온하제",
             "rating": 4.5,
             "reviewCount": 19,
@@ -321,11 +246,7 @@
             "useWaiting": true,
             "useBooking": true,
             "isNew": true,
-            "waitingCount": 0,
-            "regDate": "2021-05-13T06:00:51.885Z",
-            "distance": "-0.00km",
-            "latitude": "35.1627941",
-            "longitude": "128.6077011"
+            "waitingCount": 0
         }]
     }
 }
